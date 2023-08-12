@@ -32,4 +32,3 @@ with open('all_responses.json', 'w') as json_file:
     json.dump(all_responses, json_file, indent=4)
 
 print('Saved all_responses.json')
-
